@@ -1,11 +1,9 @@
-[![Visit Live Demo](https://img.shields.io/badge/Visit-Live--Demo-orange?style=for-the-badge&logo=appveyor)](http://localhost/RealEstate-PHP/)
-
-
 🏡 RealEstate-PHP
 Welcome to RealEstate-PHP — a dynamic and responsive Real Estate Management System built using PHP and MySQL!
 This project helps users browse, search, and manage property listings easily, offering a seamless experience for both real estate agents and buyers.
 
 🚀 Features
+
 🏘️ Browse latest property listings
 
 🔍 Search properties based on price, type, and location
@@ -19,6 +17,7 @@ This project helps users browse, search, and manage property listings easily, of
 📱 Fully responsive and mobile-friendly design
 
 🛠️ Tech Stack
+
 Frontend: HTML5, CSS3, JavaScript
 
 Backend: PHP
@@ -28,6 +27,7 @@ Database: MySQL
 Hosting: (Optional: GitHub Pages / XAMPP for local testing)
 
 🎯 Future Enhancements
+
 User authentication system (Register/Login)
 
 Favorite listings
@@ -38,6 +38,7 @@ Property recommendation engine
 
 Admin dashboard improvements
 
-🙌 Contributing
+**🙌 Contributing**
+
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project. 💬
 
