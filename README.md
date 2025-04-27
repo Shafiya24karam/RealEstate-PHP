@@ -16,6 +16,7 @@ This project helps users browse, search, and manage property listings easily, of
 
 📱 Fully responsive and mobile-friendly design
 
+---
 🛠️ Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript
@@ -26,6 +27,7 @@ Database: MySQL
 
 Hosting: (Optional: GitHub Pages / XAMPP for local testing)
 
+---
 🎯 Future Enhancements
 
 User authentication system (Register/Login)
@@ -38,6 +40,7 @@ Property recommendation engine
 
 Admin dashboard improvements
 
+---
 **🙌 Contributing**
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project. 💬
